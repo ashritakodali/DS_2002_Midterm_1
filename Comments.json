@@ -1,0 +1,79 @@
+[
+	{
+		"creationTime" : "2014-03-22",
+		"userid" : 12,
+		"pid" : 3,
+		"grade" : 4.7,
+		"content" : "Someone always has a better camera. That being said, this is an admirable performer with enough features for most."
+	},
+	{
+		"creationTime" : "2015-05-30",
+		"userid" : 12,
+		"pid" : 2,
+		"grade" : 4.3,
+		"content" : "I have been using it for a week now. For a short conclusion, i love the headset."
+	},
+	{
+		"creationTime" : "2015-05-30",
+		"userid" : 24,
+		"pid" : 6,
+		"grade" : 4.5,
+		"content" : "Works flawlessly. After plugging it in, Windows automatically installed the drivers for it, and it was working in a matter of moments. It is an actual Xbox controller so it feels solid. This was definitely a purchase I would make again."
+	},
+	{
+		"creationTime" : "2015-08-22",
+		"userid" : 18,
+		"pid" : 1,
+		"grade" : 5,
+		"content" : "This was definitely an impulse buy on my part but has turned out to be one of the best things I have ever invested in for school!"
+	},
+	{
+		"creationTime" : "2015-08-22",
+		"userid" : 24,
+		"pid" : 5,
+		"grade" : 5,
+		"content" : "First go pro I have ever purchased. Really impressed with the quality and ease of use. The stabilizer is awesome, do not need to warp stabilize a ton in adobe."
+	},
+	{
+		"creationTime" : "2016-09-18",
+		"userid" : 5,
+		"pid" : 2,
+		"grade" : 4.6,
+		"content" : "These headphones are worth the money, yes even the CAD price. They sound good and the noise cancellation is incredible."
+	},
+	{
+		"creationTime" : "2016-12-27",
+		"userid" : 18,
+		"pid" : 5,
+		"grade" : 4.3,
+		"content" : "It is the first Go Pro I have had and so far I am loving it, the voice control is great for when you have your hands busy or can not reach the buttons. The apps for camera pairing and video editing are just great as well"
+	},
+	{
+		"creationTime" : "2016-12-27",
+		"userid" : 41,
+		"pid" : 8,
+		"grade" : 3.8,
+		"content" : "I love my surface. I got it a couple of weeks ago. I amm a life time mac user, but I consider myself quite tech savvy. I think this is a great device."
+	},
+	{
+		"creationTime" : "2017-01-23",
+		"userid" : 12,
+		"pid" : 4,
+		"grade" : 4.8,
+		"content" : "This monitor is simply amazing. My eyes are not getting any younger and this makes everything very crisp and clear. I can definitely notice the improvement over a 2560X1440 display. I am ordering another one!"
+	},
+	{
+		"creationTime" : "2017-02-12",
+		"userid" : 41,
+		"pid" : 7,
+		"grade" : 4.3,
+		"content" : "Overall good keyboard and mouse. However the moment your USB receiver dies, the whole thing goes in the garbage."
+	},
+	{
+		"creationTime" : "2017-02-21",
+		"userid" : 5,
+		"pid" : 1,
+		"grade" : 4.3,
+		"content" : "The laptop works amazingly. It holds a 10 hour charge, is compact to wander with, the brightness/volume features are perfect."
+	}
+]
